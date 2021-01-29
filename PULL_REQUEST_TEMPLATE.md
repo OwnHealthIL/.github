@@ -1,5 +1,5 @@
 ## Checklist
-- [ ] I've ran all required tests (unit, integration, etc.) on my development environment before pushing this branch.
+- [ ] I've ran all required unit tests on my development environment before pushing this branch.
 - [ ] Added summary, changes, risks, monday tasks.
 
 ## Summary

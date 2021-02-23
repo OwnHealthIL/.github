@@ -8,7 +8,7 @@
 ## Changes
 - _List changes briefly_
 
-## Risks/Tech Debt
+## Tech Debt
 - _List any tech debt if relevant_
 
 ## Monday Tasks

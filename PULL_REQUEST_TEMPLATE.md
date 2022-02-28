@@ -1,6 +1,7 @@
 ## Checklist
-- [ ] I've ran all required unit tests on my development environment before pushing this branch.
-- [ ] Added summary, changes, risks, monday tasks.
+- [ ] Ran all required unit tests on my development environment before pushing this branch.
+- [ ] Added summary, changes, tech debt and relevant monday tasks.
+- [ ] Updated relevant documentation, shared postman collections, etc.
 
 ## Summary
 - _List your PR goals_
@@ -13,5 +14,3 @@
 
 ## Monday Tasks
 - _List any relevant Monday tasks_
-
-##### Be kind to code reviewers and please try to keep pull requests as small and focused as possible :)

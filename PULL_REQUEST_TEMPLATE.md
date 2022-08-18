@@ -12,5 +12,5 @@
 ## Tech Debt
 - _List any tech debt if relevant_
 
-## Monday Tasks
-- _List any relevant Monday tasks_
+## Monday Tasks/Figma Links
+- _List any relevant Monday tasks/Figma links_
